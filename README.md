@@ -1,4 +1,4 @@
-# Intuitive Deep Learning
+# Intuitive Deep Learning - Author: josephlee94
 
 A beginner-friendly tutorial to introduce Deep Learning concepts in an intuitive way!
 
